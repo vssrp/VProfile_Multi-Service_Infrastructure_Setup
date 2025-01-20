@@ -2,7 +2,7 @@
 ---
 
 ## Project Overview
-VProfile is a multi-tier web application demonstrating a manual provisioning approach for setting up a distributed infrastructure. This project involves configuring multiple services and ensuring secure networking for a production-like environment.
+This Project is a multi-tier web application demonstrating a manual provisioning approach for setting up a distributed infrastructure. This project involves configuring multiple services and ensuring secure networking for a production-like environment.
 
 ---
 
