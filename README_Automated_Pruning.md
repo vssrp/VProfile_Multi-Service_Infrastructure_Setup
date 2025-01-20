@@ -1,4 +1,4 @@
-# VProfile Automated Multi-Service Infrastructure Setup
+# Automated Multi-Service Infrastructure Setup
 ---
 
 ## Project Overview
