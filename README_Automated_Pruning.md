@@ -2,7 +2,7 @@
 ---
 
 ## Project Overview
-VProfile is a multi-tier web application that demonstrates automated provisioning of a distributed infrastructure. This setup uses shell scripts to configure and deploy essential services for a production-like environment.
+This Project is a multi-tier web application that demonstrates automated provisioning of a distributed infrastructure. This setup uses shell scripts to configure and deploy essential services for a production-like environment.
 
 ---
 
