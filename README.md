@@ -1,19 +1,4 @@
 # VProfile Multi-Service Infrastructure Setup
-
-## Table of Contents
-1. [Project Overview](#project-overview)
-2. [Features](#features)
-3. [Technologies Used](#technologies-used)
-4. [Prerequisites](#prerequisites)
-5. [Setup Instructions](#setup-instructions)
-   - [Manual Provisioning](#manual-provisioning)
-   - [Automated Provisioning](#automated-provisioning)
-6. [Services and Ports](#services-and-ports)
-7. [Testing](#testing)
-8. [Outcomes](#outcomes)
-9. [Contributing](#contributing)
-10. [License](#license)
-
 ---
 
 ## Project Overview
